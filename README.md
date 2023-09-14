@@ -10,11 +10,17 @@ Handbot never die league of legends script
 
 Script Keys
 V key (Farm) Rapid lane push
+
 X key (Last hit) Don't last hit
+
 Space (Attack) Attack the enemy by kite
+
 C key (Harass) Automatic poke the enemy
+
 F1 & Shift (Menu) Opens the Script setting menu
+
 M key (Evade) Turns on skill evasion
+
 H key (Steal) is used to steal Baron and Dragon
 
 . You can open and close the menu with the F1 or SHIFT key and make your settings.
