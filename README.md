@@ -24,3 +24,5 @@ M key (Evade) Turns on skill evasion
 H key (Steal) is used to steal Baron and Dragon
 
 . You can open and close the menu with the F1 or SHIFT key and make your settings.
+
+Download is in the release to ur right have fun
